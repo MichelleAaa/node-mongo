@@ -1,13 +1,24 @@
 {
-    "name": "node-mongo",
-    "version": "1.0.0",
-    "description": "Node MongoDB Example",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node index"
-    },
-    "dependencies": {
-        "mongodb": "^3.6.2"
-    }
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "Node MongoDB Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelleAaa/node-mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichelleAaa/node-mongo/issues"
+  },
+  "homepage": "https://github.com/MichelleAaa/node-mongo#readme"
 }
